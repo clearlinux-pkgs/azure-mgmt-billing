@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-billing
 Version  : 0.2.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/24/35/3b9da47363a300203c324b572a1ae3c096dc031905d582d5a27bd59a8d4e/azure-mgmt-billing-0.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/24/35/3b9da47363a300203c324b572a1ae3c096dc031905d582d5a27bd59a8d4e/azure-mgmt-billing-0.2.0.zip
 Summary  : Microsoft Azure Billing Client Library for Python
